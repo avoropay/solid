@@ -1,6 +1,6 @@
 [Простое объяснение принципов SOLID](https://habr.com/ru/company/mailru/blog/412699/)
 
-[Пример в GIT]()
+[Пример в GIT](https://github.com/avoropay/solid)
 
 [SOLID](https://en.wikipedia.org/wiki/SOLID#:~:text=In%20object%2Doriented%20computer%20programming,the%20GRASP%20software%20design%20principles.)
 
